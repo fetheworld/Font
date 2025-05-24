@@ -1,1 +1,1 @@
-Este repositório é para hospedar minha fonte SugarSnow.woff2
+Este repositório é para hospedar minha fonte SugarSnow
